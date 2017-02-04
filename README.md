@@ -2,7 +2,7 @@
 
 > Minimalist midnight theme for [Hyper](http://hyper.is/).
 
-![Screenshot](screenshot.png)
+![](screenshot.png)
 
 
 # Install
