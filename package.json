@@ -1,0 +1,12 @@
+{
+  "name": "hyper-midnight",
+  "version": "0.0.1",
+  "description": "A minimalist theme for the hyper terminal",
+  "keywords": [
+    "hyper",
+    "theme",
+    "midnight"
+  ],
+  "author": "Paul Dariye <paul.dariye@gmail.com>",
+  "license": "MIT"
+}
