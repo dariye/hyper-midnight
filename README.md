@@ -21,6 +21,17 @@ plugins: [
 
 ```
 
+# More customizations
+
+Here are other plugins to make your terminal look just like mine:
+
+- [pure](https://github.com/sindresorhus/pure)
+- [hyperline](https://github.com/Hyperline/hyperline)
+- [hyperblinks](https://www.npmjs.com/package/hyperlinks)
+
+
 # Acknowledgement
 [zpnk](https://github.com/zpnk) for [Monochrome
 theme](https://github.com/zpnk/hyper-apex)
+
+# License MIT

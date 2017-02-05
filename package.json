@@ -1,12 +1,17 @@
 {
   "name": "hyper-midnight",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A minimalist theme for the hyper terminal",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulthealien/hyper-midnight.git"
+  },
   "keywords": [
     "hyper",
     "theme",
     "midnight"
   ],
-  "author": "Paul Dariye <paul.dariye@gmail.com>",
+  "author": "Paul Dariye <paul.dariye@gmail.com> (https://pauldariye.com)",
   "license": "MIT"
 }
